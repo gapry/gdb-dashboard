@@ -2098,6 +2098,9 @@ set print pretty on
 set print array off
 set print array-indexes on
 set python print-stack full
+set use-coredump-filter on
+set dump-excluded-mappings on
+set auto-load safe-path /
 
 # Start ------------------------------------------------------------------------
 
