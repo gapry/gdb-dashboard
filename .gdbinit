@@ -358,7 +358,7 @@ class Dashboard(gdb.Command):
         # dashboard is printed to a separate file (dashboard -output ...)
         if self.is_running() and not self.output:
             width, _ = Dashboard.get_term_size()
-            gdb.write(Dashboard.clear_screen())
+            #gdb.write(Dashboard.clear_screen())
             gdb.write(divider(width, 'Output/messages', True))
             gdb.write('\n')
             gdb.flush()
