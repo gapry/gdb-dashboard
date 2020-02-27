@@ -29,3 +29,8 @@ Head to the [wiki][] to learn how to perform the most important tasks.
 [`.gdbinit`]: https://raw.githubusercontent.com/cyrus-and/gdb-dashboard/master/.gdbinit
 [Pygments]: http://pygments.org/
 [wiki]: https://github.com/cyrus-and/gdb-dashboard/wiki
+
+## References
+- [GDBFrontend](https://github.com/rohanrhu/gdb-frontend)
+- [GDB 100 Tips](https://github.com/hellogcc/100-gdb-tips)
+- [rr](https://github.com/mozilla/rr)
